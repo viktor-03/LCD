@@ -13,4 +13,4 @@
 > það er bara hægt að setja 80 stafi.
 
 ### Afhverju þarf að stýra LCD1602 með nokkrum pinnum (4 eða 8) á sama tíma? útskýrðu!
-> því að allir pinnarnir eru með sit eigið starf svo að þetta virki.
+> þetta er spurning um að flytja gögnin úr kóðanum í LCD.
