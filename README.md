@@ -1,7 +1,7 @@
 # LCD
 
 ### Hver er helsti munurinn á Character LCDs og Graphical LCDs?
-> 
+> það er hægt að gera stórar og flott merki með Graphical LDC en á Character LDC er bara hægt að gera 5x7 píxlar
 
 ### Hvað gerir RS pinninn á LCD?
 >
